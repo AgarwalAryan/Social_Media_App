@@ -34,7 +34,7 @@
 **React Query Integration**: Incorporate the React Query (Tanstack Query) data fetching library for, Auto caching to enhance performance, Parallel queries for efficient data retrieval, First-class Mutations, etc
 
 **Backend as a Service (BaaS) - Appwrite**: Utilize Appwrite as a Backend as a Service solution for streamlined backend development, offering features like authentication, database, file storage,and many more, including code architecture and reusability 
-<img width="1440" alt="Screenshot 2023-03-23 at 12 13 23 AM" src="https://github.com/AgarwalAryan/Social_Media_App/assets/161757715/a775f699-dda7-49b7-8226-3d19cd833b21">
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
