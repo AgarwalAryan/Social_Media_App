@@ -35,6 +35,10 @@
 
 **Backend as a Service (BaaS) - Appwrite**: Utilize Appwrite as a Backend as a Service solution for streamlined backend development, offering features like authentication, database, file storage,and many more, including code architecture and reusability 
 
+<img width="1440" alt="Screenshot 2024-03-18 at 12 23 23 AM" src="https://github.com/AgarwalAryan/Social_Media_App/assets/161757715/b39c232d-59f1-4184-900d-8d1f96419d3b">
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
