@@ -37,6 +37,12 @@
 
 <img width="1440" alt="Screenshot 2024-03-18 at 12 23 23 AM" src="https://github.com/AgarwalAryan/Social_Media_App/assets/161757715/b39c232d-59f1-4184-900d-8d1f96419d3b">
 
+<img width="1440" alt="Screenshot 2024-03-18 at 12 23 23 AM" src="https://github.com/AgarwalAryan/Social_Media_App/assets/161757715/8fc9518b-ec35-4ee1-a8c1-dc247b3deec2">
+
+<img width="1440" alt="Screenshot 2024-03-18 at 12 23 23 AM" src="https://github.com/AgarwalAryan/Social_Media_App/assets/161757715/f351e41c-d1a7-4995-ab6f-d4cd9f6f3621">
+
+<img width="1440" alt="Screenshot 2024-03-18 at 12 23 23 AM" src="https://github.com/AgarwalAryan/Social_Media_App/assets/161757715/58cdf84f-891d-4eda-84fd-06200d898f5e">
+
 
 
 # React + TypeScript + Vite
